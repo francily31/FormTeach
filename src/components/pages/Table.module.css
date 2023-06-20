@@ -1,0 +1,35 @@
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+.cabecalho {
+    background-color: #b61f1f;
+    font-weight: bold;
+    color: #fff;
+}
+
+.cabecalho,
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #c5b3b3;
+}
+
+tr:nth-child(even){
+    background-color: #11076b;
+    color: #fff;
+}
+
+
+
+h1 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
